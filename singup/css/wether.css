@@ -1,0 +1,42 @@
+
+
+
+.app {
+    width: 250px;
+    
+    height: 400px;  /* Adjust the width as needed */
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: -700px;
+  }
+  
+  .header {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .city {
+    margin-top: 50px;
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+  }
+  
+  .temp {
+    margin: 10px 0;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+  }
+  
+  .desc {
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+  }
+  
+  .minmax {
+    margin-top: 10px;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+  }
